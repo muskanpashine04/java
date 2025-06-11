@@ -1,0 +1,2 @@
+hellon this is the test message written for text file 
+//file created when CreateFileExample run
